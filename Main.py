@@ -3,7 +3,7 @@ import threading
 
 start = 1
 end = 1024
-address = "one.dev.parttrap.com"
+address = "www.google.com"
 
 def testPort(ip, port):
     try:
